@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MrHarshJain/Expense-Tracker-with-React.js.git/static/css/main.989f8103.css",
+    "main.js": "/MrHarshJain/Expense-Tracker-with-React.js.git/static/js/main.3e8fade3.js",
+    "index.html": "/MrHarshJain/Expense-Tracker-with-React.js.git/index.html",
+    "main.989f8103.css.map": "/MrHarshJain/Expense-Tracker-with-React.js.git/static/css/main.989f8103.css.map",
+    "main.3e8fade3.js.map": "/MrHarshJain/Expense-Tracker-with-React.js.git/static/js/main.3e8fade3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.989f8103.css",
+    "static/js/main.3e8fade3.js"
+  ]
+}
